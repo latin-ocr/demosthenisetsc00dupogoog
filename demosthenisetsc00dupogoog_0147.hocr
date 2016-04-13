@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demosthenisetsc00dupogoog/demosthenisetsc00dupogoog_0147.png"; bbox 0 0 3125 5134; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 531 1678 1121 1829">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 531 1678 1121 1829">
+     <span class='ocr_line' id='line_1_1' title="bbox 531 1678 1121 1829; baseline 0.002 -57"><span class='ocrx_word' id='word_1_1' title='bbox 531 1678 947 1829; x_wconf 12' lang='lat' dir='ltr'><strong>AlzxfllNo‘r</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1118 1800 1121 1807; x_wconf 10' lang='grc' dir='ltr'><strong>Δ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 723 1958 759 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 723 1958 759 2034">
+     <span class='ocr_line' id='line_1_2' title="bbox 723 1958 759 2034; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 723 1958 759 2034; x_wconf 88' lang='grc' dir='ltr'>Ο</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 270 2215 1196 2357">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 270 2215 1196 2357">
+     <span class='ocr_line' id='line_1_3' title="bbox 270 2215 1196 2357; baseline 0.008 -44"><span class='ocrx_word' id='word_1_4' title='bbox 270 2220 421 2315; x_wconf 91' lang='grc' dir='ltr'>ΠΕΡΙ</span> <span class='ocrx_word' id='word_1_5' title='bbox 472 2215 611 2314; x_wconf 90' lang='grc' dir='ltr'>ΤΗΣ</span> <span class='ocrx_word' id='word_1_6' title='bbox 653 2218 1196 2357; x_wconf 84' lang='grc' dir='ltr'>ΠΑΡΑΠΡΕΣΒΕΙΑΣ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 613 2520 1033 2627">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 613 2520 1033 2627">
+     <span class='ocr_line' id='line_1_4' title="bbox 613 2520 1033 2627; baseline 0.014 -28"><span class='ocrx_word' id='word_1_7' title='bbox 613 2520 869 2603; x_wconf 60' lang='lat' dir='ltr'>Aoroz</span> <span class='ocrx_word' id='word_1_8' title='bbox 1029 2619 1033 2627; x_wconf 48' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1568 5134">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1568 5134">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1568 5134; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1568 5134; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
